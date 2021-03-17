@@ -38,3 +38,7 @@ To see intrinsic value of a stock, execute
 ```bash
 bin/stock_cat intrinsic_value --ticker <SYMBOL>
 ```
+
+To search for supported ticker symbol, visit https://www.alphavantage.co/documentation/#symbolsearch.
+SGX stocks appears to not be supported anymore.
+
